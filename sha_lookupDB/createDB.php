@@ -13,7 +13,8 @@
 <body>
 	<?php
 		
-		//returns a 2D array from a file that has its the password then the hash separated by a colon on each line
+		//returns a 2D array from a file that has the passwords then the hash value separated by a colon on each line
+		//EX: 123456:7c4a8d09ca3762af61e59520943dc26494f8941b
 		//0 index in each row is password, then hash. Each one has ' on either side of the entry
 		function get_array_data($fileName)
 		{
