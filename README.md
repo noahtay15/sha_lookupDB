@@ -12,3 +12,8 @@ Assignment requirements:
   
 2)	An HTML page that accepts an input text box for the SHA hash value a user wants to look up.
 3)	A PHP script that submits queries to the database created in step 1 to search for the SHA hash values submitted by the user.  This PHP script also displays a form to allow the user to search again for a new SHA hash value.
+
+
+At this point in time, I did not attempt to make the HTML files look good or interactable with CSS or JS. The point of this class was more about handling databases than anything. 
+
+This project was locally hosted using XAMPP. 
